@@ -1,64 +1,105 @@
-# Hi, I'm Akshai 👋
+# Hi, I'm Akshai 👋  
+### Flutter Developer | Mobile Apps | API Integration
 
-Flutter developer who enjoys turning backend APIs into clean, reliable mobile apps.  
-I focus on UI clarity, data handling, and making apps behave well in real-world conditions — not just on screenshots.
-
----
-
-## 📱 What I Do
-- Build cross-platform mobile apps using **Flutter**
-- Consume and integrate **REST APIs** from backend teams
-- Handle authentication, forms, file uploads, and error states
-- Translate business workflows into usable mobile features
+I build **Flutter applications** that consume backend APIs and turn complex data into clean, reliable mobile experiences.  
+I care about UI clarity, predictable app behavior, and production-ready code.
 
 ---
 
-## 🧩 Experience
+## 🔗 Quick Links
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshai-krishna-a-a5ab99224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Akshai%20Krishna-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:akshaykrishna1983@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Akshai-krishna-2003">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🧩 What I Do
+- 📱 Build cross-platform mobile apps using **Flutter**
+- 🔌 Integrate **REST APIs** from backend teams
+- 🔐 Handle auth, forms, uploads, pagination, and error states
+- 🧠 Focus on clean UI + predictable app logic
+
+---
+
+## 🏢 Experience Snapshot
 - **Flutter Developer** – Thiran T-EAM  
-  Developing enterprise mobile applications by consuming APIs backed by **IBM Maximo**, focusing on structured data flows, reliability, and user experience.
+  Enterprise Flutter apps consuming APIs backed by **IBM Maximo**
 
 - **Flutter Developer Intern** – Leister Technologies  
-  Built Flutter apps integrated with **SAP Business One**, collaborating with backend and functional teams to implement real business processes.
+  Flutter apps integrated with **SAP Business One**
 
 - **Software Engineer Intern** – Indian Space Research Organisation (ISRO)  
-  Worked on internal networking software for file synchronization across servers and clients, contributing to mission-support systems.
+  Networking software for internal file synchronization systems
 
 ---
 
-## 🚀 Selected Projects
-- **Signal Mapper**  
-  Android app for real-time cellular and Wi-Fi signal monitoring with dual SIM support, speed testing, and ML-based connectivity prediction.
+## 🚀 Featured Projects
+<p align="left">
+  <a href="https://github.com/Akshai-krishna-2003/Signal-Mapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshai-krishna-2003&repo=Signal-Mapper" />
+  </a>
+  <a href="https://github.com/Akshai-krishna-2003/AstroConnect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshai-krishna-2003&repo=AstroConnect" />
+  </a>
+</p>
 
-- **AstroConnect**  
-  Flutter-based astrology app using Firebase Authentication, Firestore, local storage, and AI-powered insights.
-
-- **Enterprise Utility Apps**  
-  Internal Flutter applications focused on API-driven forms, data visualization, and operational workflows.
+👉 Pin **only your best 4–6 repos** on GitHub as well.
 
 ---
 
 ## 🛠 Tech Stack
-- **Flutter & Dart**
-- REST API Integration
-- Firebase (Auth, Firestore)
-- State Management (Riverpod / Provider)
-- Git & GitHub
-- Android Studio, VS Code
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-orange?style=flat&logo=git"/>
+</p>
 
 ---
 
-## 🧠 How I Work
-- UI should be simple, logic should be predictable
-- APIs fail — apps shouldn’t crash because of it
-- If users are confused, the fix is usually in the UI, not the user
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&theme=default&hide_title=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshai-krishna-2003"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshai-krishna-2003&layout=compact"/>
+</p>
 
 ---
 
-## 📫 Connect
+## 🏆 GitHub Trophies (Optional but Cool)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshai-krishna-2003&margin-w=10"/>
+</p>
+
+---
+
+## 🧠 How I Build
+- Simple UI > fancy UI
+- Handle API failures gracefully
+- Code should be readable six months later
+- If users struggle, the fix is probably in the UX
+
+---
+
+## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/akshai-krishna-a-a5ab99224/
-- GitHub: https://github.com/Akshai-krishna-2003
 - Email: akshaykrishna1983@gmail.com
 
 ---
 
-> *“Good UI is invisible. Bad API handling is very visible.”*
+> *“Good UI is invisible. Bad API handling is unforgettable.”*
