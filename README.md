@@ -70,9 +70,6 @@ I **design systems**, **own features end-to-end**, and **ship software that surv
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=38BDF8"/>
-</p>
 
 ## 🛠 TECH DNA
 
@@ -89,9 +86,9 @@ Production-ready work · Real users · Real systems
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=38BDF8&animation=fadeIn" />
-</p>
+</p> -->
 
 <br/>
 
@@ -153,9 +150,9 @@ Play Store →
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6366F1&animation=fadeIn" />
-</p>
+</p> -->
 
 <p align="center">
   <b style="color:#38BDF8">
@@ -187,11 +184,11 @@ Live GitHub activity · consistency · real engineering output
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8"
   />
-</p>
+</p> -->
 
 <p align="center">
   <b style="color:#38BDF8">
