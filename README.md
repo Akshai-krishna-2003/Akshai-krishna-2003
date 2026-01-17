@@ -40,21 +40,6 @@
 Not a template developer. A system builder.
 </span></sub>
 
-<br/>
-
-<!-- Animated typing intro -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Mobile+Engineer;Python+Foundation+%E2%86%92+Dart+%28Flutter%29;Adaptable+by+design.+System-minded+by+nature."
-  />
-</p>
-
-<br/>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=38BDF8&animation=fadeIn" />
-</p>
 
 <br/>
 
@@ -106,7 +91,6 @@ public final class AkshaiKrishnaA {
     }
 }
 ```
-<br/> <!-- Soft animated divider --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6366F1&animation=fadeIn" /> </p> <p align="center"> <b style="color:#38BDF8"> I don’t just code screens. </b> </p> <p align="center"> <sub style="color:#64748B"> I design systems, own features end-to-end, and ship software that survives real users, bad networks, and business pressure. </sub> </p> 
 
 ## 🧩 WHY I AM A STRONG ASSET
 
