@@ -121,18 +121,38 @@ I **design systems**, **own features end-to-end**, and **ship software that surv
 
 ## 📈 ENGINEERING PROOF  
 <sub><span style="color:#94A3B8">
-Live, verifiable proof of consistency, depth, and real-world engineering output
+Live GitHub activity · consistency · real engineering output
 </span></sub>
 
 <br/>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=default"
-    alt="GitHub Profile Summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=github_dark"
+    width="92%"
+    alt="GitHub Engineering Summary"
   />
 </p>
 
+<p align="center">
+  <sub style="color:#64748B">
+    Contribution history, repositories, language usage, and long-term consistency — live from GitHub.
+  </sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8"
+  />
+</p>
+
+<p align="center">
+  <b style="color:#38BDF8">
+    This is not a screenshot. This is live engineering evidence.
+  </b>
+</p>
 <p align="center">
   <sub style="color:#64748B">
     Overall engineering footprint — repositories, commits, stars, and sustained activity.
