@@ -195,7 +195,7 @@ Play Store →
 
 ## 📈 ENGINEERING PROOF  
 <sub><span style="color:#94A3B8">
-Live GitHub activity · consistency · real engineering output
+Live GitHub activity
 </span></sub>
 
 <br/>
@@ -209,13 +209,6 @@ Live GitHub activity · consistency · real engineering output
   />
 </p>
 
-<p align="center">
-  <sub style="color:#64748B">
-    Contribution history, repositories, language usage, and long-term consistency — live from GitHub.
-  </sub>
-</p>
-
-<br/>
 
 <!-- ===================== CONSISTENCY ===================== -->
 <p align="center">
@@ -226,13 +219,6 @@ Live GitHub activity · consistency · real engineering output
   />
 </p>
 
-<p align="center">
-  <sub style="color:#64748B">
-    Consistency over time — not bursts, not demos, not short-term spikes.
-  </sub>
-</p>
-
-<br/>
 
 <!-- ===================== VELOCITY ===================== -->
 <p align="center">
@@ -243,22 +229,22 @@ Live GitHub activity · consistency · real engineering output
   />
 </p>
 
-<p align="center">
-  <sub style="color:#64748B">
-    Shipping velocity — how frequently meaningful work reaches repositories.
-  </sub>
-</p>
-
-<br/>
 
 <!-- ===================== CLOSING STATEMENT ===================== -->
 <p align="center">
   <b style="color:#38BDF8">
-    Not a claim. Live engineering evidence.
+    Git Stats.
   </b>
 </p>
 
 ---
+
+<!-- Animated footer wave -->
+<p align="center">
+  <img
+    src="assets/footerwave.svg"
+  />
+</p>
 
 <!-- Contact buttons -->
 <p align="center">
@@ -270,30 +256,6 @@ Live GitHub activity · consistency · real engineering output
   </a>
 </p>
 
-<br/>
-
-<!-- Closing emphasis -->
-<p align="center">
-  <b style="color:#38BDF8">
-    I treat your product like it’s my own.
-  </b>
-</p>
-
-<p align="center">
-  <sub style="color:#64748B">
-    If quality, ownership, and long-term thinking matter — we’ll work well together.
-  </sub>
-</p>
-
-<br/>
-
-<!-- Animated footer wave -->
-<p align="center">
-  <img
-    src="assets/footerwave.svg"
-  />
-</p>
-
 <h3 align="center" style="color:#38BDF8">
-⚡ SOFTWARE IS MY CRAFT. QUALITY IS MY SIGNATURE. ⚡
+⚡ I LOVE TO CODE. ⚡
 </h3>
