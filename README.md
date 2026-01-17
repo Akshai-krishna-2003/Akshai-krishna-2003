@@ -199,6 +199,7 @@ Play Store →
   </b>
 </p>
 
+---
 
 ## 📈 ENGINEERING PROOF  
 <sub><span style="color:#94A3B8">
@@ -264,6 +265,8 @@ Live GitHub activity · consistency · real engineering output
     Not a claim. Live engineering evidence.
   </b>
 </p>
+
+---
 
 ## 🤝 WORK WITH ME
 
