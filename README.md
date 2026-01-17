@@ -128,7 +128,7 @@ Live, verifiable proof of consistency, depth, and real-world engineering output
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&hide_border=true&v=1"
+    src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&theme=dark&hide_border=true"
     alt="Akshai Krishna GitHub Stats"
   />
 </p>
