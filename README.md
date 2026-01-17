@@ -4,18 +4,18 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=320&text=Akshai%20Krishna%20A&fontSize=58&fontColor=ffffff&fontAlignY=35&color=0:020617,50:1e3a8a,100:38BDF8&animation=fadeIn"/>
+  <img src="assets/hero.svg"/>
 </p>
 
 <!-- ===================== GREETING ===================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=94A3B8&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I%E2%80%99m+Akshai.;I+build+software+systems+that+survive+real+users.;Welcome+to+my+engineering+space."
+    src="assets/anim1.svg"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=900&color=38BDF8&center=true&vCenter=true&width=1200&lines=Software+Engineer+%7C+Mobile+Engineer;Flutter+%7C+Android+%7C+AI+Driven+Systems;Offline-First+Architecture+%7C+Enterprise+Apps;I+build+systems+that+scale+under+pressure." />
+  <img src="assets/anim2.svg" />
 </p>
 
 <!-- ===================== NAVIGATION BUTTONS ===================== -->
@@ -109,7 +109,7 @@ Not output. Ownership. Reliability under pressure.
 <!-- Animated statement -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Most+developers+write+code.;I+take+responsibility.;From+idea+to+production+to+scale."
+    src="assets/anim3.svg"
   />
 </p>
 
@@ -204,7 +204,7 @@ If it ships,
 ## 🛠 TECH DNA
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,arduino,ai,firebase,sqlite,git,github,androidstudio,vscode&theme=dark&perline=6" />
+  <img src="assets/techdna.svg" />
 </p>
 
 ---
@@ -367,7 +367,7 @@ Not just collaboration — real ownership and long-term thinking
 <!-- Animated CTA typing -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Looking+for+an+engineer+who+takes+ownership%3F;Someone+who+cares+about+production+as+much+as+code%3F;Let%E2%80%99s+build+something+that+actually+lasts."
+    src="assets/anim4.svg"
   />
 </p>
 
