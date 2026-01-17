@@ -94,18 +94,102 @@ public final class AkshaiKrishnaA {
 
 ---
 
-## 🧩 WHY I AM A STRONG ASSET
+## 🧩 WHY I AM A STRONG ASSET  
+<sub><span style="color:#94A3B8">
+Not output. Ownership. Reliability under pressure.
+</span></sub>
 
-> Most developers write code.  
-> **I take responsibility.**
+<!-- Animated statement -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Most+developers+write+code.;I+take+responsibility.;From+idea+to+production+to+scale."
+  />
+</p>
 
-- 🧠 Business-impact thinking, not ticket chasing  
-- 🏗 Clean architecture for long-term maintainability  
-- 🔄 Comfortable with legacy + modern stacks  
-- 🛡 Prevents bugs through strong upfront design  
-- 🚀 Treats production as sacred  
+<table align="center">
+<tr>
+<td width="33%" valign="top" align="center">
 
-👉 You don’t just get output. You get **ownership**.
+### 🧠 Thinking
+<sub style="color:#64748B">
+Business before tickets
+</sub>
+
+I focus on **impact**,  
+not just task completion.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🏗 Architecture
+<sub style="color:#64748B">
+Built to survive change
+</sub>
+
+Clean, readable systems  
+that scale with teams.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🛡 Reliability
+<sub style="color:#64748B">
+Production-first mindset
+</sub>
+
+I design to **prevent bugs**,  
+not just fix them.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🔄 Adaptability
+<sub style="color:#64748B">
+Legacy + modern
+</sub>
+
+Comfortable improving  
+existing systems without fear.
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🚀 Ownership
+<sub style="color:#64748B">
+End-to-end responsibility
+</sub>
+
+If it ships,  
+**I own the outcome**.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Closing emphasis -->
+<p align="center">
+  <b style="color:#38BDF8">
+    You don’t just get output.
+  </b>
+</p>
+
+<p align="center">
+  <b style="color:#38BDF8">
+    You get ownership, accountability, and calm execution.
+  </b>
+</p>
 
 ---
 
@@ -273,23 +357,12 @@ Live GitHub activity · consistency · real engineering output
 Not just collaboration — real ownership and long-term thinking
 </span></sub>
 
-<br/>
-
 <!-- Animated CTA typing -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Looking+for+an+engineer+who+takes+ownership%3F;Someone+who+cares+about+production+as+much+as+code%3F;Let%E2%80%99s+build+something+that+actually+lasts."
   />
 </p>
-
-<br/>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=38BDF8&animation=fadeIn" />
-</p>
-
-<br/>
 
 <table align="center">
 <tr>
