@@ -176,7 +176,7 @@ Live GitHub activity · consistency · real engineering output
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=github_dark"
     width="95%"
@@ -187,7 +187,7 @@ Live GitHub activity · consistency · real engineering output
   <sub style="color:#64748B">
     Engineering depth — languages, contribution timeline, and project evolution.
   </sub>
-</p>
+</p> -->
 
 <br/>
 
