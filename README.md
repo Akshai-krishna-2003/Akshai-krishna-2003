@@ -268,21 +268,105 @@ Live GitHub activity · consistency · real engineering output
 
 ---
 
-## 🤝 WORK WITH ME
+## 🤝 WORK WITH ME  
+<sub><span style="color:#94A3B8">
+Not just collaboration — real ownership and long-term thinking
+</span></sub>
 
-If you work with me, you get:
-- Ownership, not excuses  
-- Clear communication  
-- Strong engineering ethics  
-- Someone who treats your product like **their own**  
+<br/>
 
-📧 akshaykrishna1983@gmail.com  
-🌐 https://akshai-krishna-2003.netlify.app/  
-
+<!-- Animated CTA typing -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:38BDF8,100:6366F1&section=footer&animation=fadeIn"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Looking+for+an+engineer+who+takes+ownership%3F;Someone+who+cares+about+production+as+much+as+code%3F;Let%E2%80%99s+build+something+that+actually+lasts."
+  />
 </p>
 
-<h3 align="center">
+<br/>
+
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=38BDF8&animation=fadeIn" />
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Ownership
+<sub style="color:#64748B">
+No hand-holding. No excuses.
+</sub>
+
+I take responsibility  
+from **idea → production → scale**.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💬 Communication
+<sub style="color:#64748B">
+Clear. Honest. Proactive.
+</sub>
+
+You always know  
+**what’s happening and why**.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠 Engineering Ethics
+<sub style="color:#64748B">
+Built to last.
+</sub>
+
+Clean architecture,  
+production-first decisions.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Contact buttons -->
+<p align="center">
+  <a href="mailto:akshaykrishna1983@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let%E2%80%99s%20Talk-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://akshai-krishna-2003.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Closing emphasis -->
+<p align="center">
+  <b style="color:#38BDF8">
+    I treat your product like it’s my own.
+  </b>
+</p>
+
+<p align="center">
+  <sub style="color:#64748B">
+    If quality, ownership, and long-term thinking matter — we’ll work well together.
+  </sub>
+</p>
+
+<br/>
+
+<!-- Animated footer wave -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:38BDF8,100:6366F1&section=footer&animation=fadeIn"
+  />
+</p>
+
+<h3 align="center" style="color:#38BDF8">
 ⚡ SOFTWARE IS MY CRAFT. QUALITY IS MY SIGNATURE. ⚡
 </h3>
