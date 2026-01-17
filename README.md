@@ -443,7 +443,7 @@ production-first decisions.
 <!-- Animated footer wave -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:38BDF8,100:6366F1&section=footer&animation=fadeIn"
+    src="assets/footerwave.svg"
   />
 </p>
 
