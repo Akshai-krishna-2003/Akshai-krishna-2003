@@ -77,7 +77,7 @@ I **design systems**, **own features end-to-end**, and **ship software that surv
 ## 🛠 TECH DNA
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,firebase,sqlite,git,github,androidstudio,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,arduino,iot,ai,machinelearning,firebase,sqlite,git,github,androidstudio,vscode&theme=dark&perline=6" />
 </p>
 
 ---
