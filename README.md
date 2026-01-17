@@ -98,6 +98,8 @@ public final class AkshaiKrishnaA {
     }
 }
 ```
+<br />
+
 
 ---
 
@@ -105,23 +107,22 @@ public final class AkshaiKrishnaA {
 ## 🛠 TECH DNA
 
 <p align="center">
+  <img src="assets/anim3.svg" />
+</p>
+
+<p align="center">
   <img src="assets/techdna.svg" />
 </p>
+
+<br />
 
 ---
 
 ## 🚀 PROJECTS
-<sub><span style="color:#94A3B8">
-Production-ready work · Real users · Real systems
-</span></sub>
 
-<br/>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=38BDF8&animation=fadeIn" />
-</p> -->
-
-<br/>
+<p align="center">
+  <img src="assets/anim4.svg" />
+</p>
 
 <table align="center">
 <tr>
@@ -181,24 +182,9 @@ Play Store →
 
 <br/>
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6366F1&animation=fadeIn" />
-</p> -->
-
-<p align="center">
-  <b style="color:#38BDF8">
-    Fewer projects. Higher intent. Built to last.
-  </b>
-</p>
-
 ---
 
-## 📈 ENGINEERING PROOF  
-<sub><span style="color:#94A3B8">
-Live GitHub activity
-</span></sub>
-
-<br/>
+## 📈 GITHUB ACTIVITY 
 
 <!-- ===================== PRIMARY PROOF ===================== -->
 <p align="center">
