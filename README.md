@@ -143,7 +143,7 @@ AI-powered astrology & compatibility app
 built for scale and low-latency.
 </p>
 
-📱 <a href="[https://play.google.com/store/apps/details?id=com.AstroApp.astroapp](https://play.google.com/store/apps/details?id=com.AstroApp.astro_app)">
+📱 <a href="https://play.google.com/store/apps/details?id=com.AstroApp.astro_app">
 Play Store →
 </a>
 
