@@ -127,7 +127,10 @@ Live, verifiable proof of consistency, depth, and real-world engineering output
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&count_private=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=default"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 <p align="center">
