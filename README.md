@@ -82,40 +82,102 @@ I **design systems**, **own features end-to-end**, and **ship software that surv
 
 ---
 
-## 🚀 PROJECTS — REAL · USED · SHIPPED
+## 🚀 PROJECTS — REAL · USED · SHIPPED  
+<sub><span style="color:#94A3B8">
+Production-grade work focused on real problems, real users, and real constraints
+</span></sub>
+
+<br/>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### 📡 Signal Mapper — Android
-```diff
-+ Real-time Cellular & Wi-Fi Analytics Platform
-+ Dual SIM support
-+ ML-based connectivity prediction
-+ Offline-first mapping architecture
-```
+---
 
-**Impact**
-- Identifies real network dead zones  
-- Predicts connectivity instead of reacting  
+## 📡 Signal Mapper  
+<sub><span style="color:#38BDF8">Android · Offline-first · Network Intelligence</span></sub>
 
-🔗 https://github.com/Akshai-krishna-2003/Signal-Mapper
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8" />
+</p>
+
+### 🧠 Problem
+Mobile users have **no clear visibility** into real-world network quality.  
+Signal strength fluctuates, dual-SIM behavior is opaque, and dead zones are discovered **only after failure**.
+
+### 🛠 Solution
+**Signal Mapper** is an Android application that:
+- Maps **real-time cellular & Wi-Fi signal strength**
+- Supports **dual SIM** devices
+- Uses **ML models** to *predict* connectivity
+- Works reliably in **low / no-network environments**
+
+### 🚀 Impact
+- Identifies **actual network dead zones**
+- Predicts connectivity instead of reacting to failure
+- Enables informed decisions for users & field engineers
+
+### ⚙️ Engineering Highlights
+- Offline-first architecture
+- Jetpack Compose UI
+- ML-based signal prediction
+- Map visualization with OSM APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-Android-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-Connectivity-orange?style=for-the-badge"/>
+</p>
+
+🔗 **Repository:** https://github.com/Akshai-krishna-2003/Signal-Mapper
 
 ---
 
-### 🌟 AstroConnect — Flutter
-```diff
-+ AI-powered astrology & compatibility engine
-+ LLaMA-3 (70B) integration
-+ Hybrid SQLite + Firestore storage
-```
+## 🌟 AstroConnect  
+<sub><span style="color:#A78BFA">Flutter · AI-Driven · Scalable Consumer App</span></sub>
 
-**Impact**
-- Personalised insights, not generic content  
-- Designed for scale and low-latency  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A78BFA" />
+</p>
 
-📱 https://play.google.com/store/apps/details?id=com.AstroApp.astroapp
+### 🧠 Problem
+Most astrology apps deliver **generic, repetitive content** with little personalization and poor performance at scale.
+
+### 🛠 Solution
+**AstroConnect** is a Flutter application that:
+- Delivers **AI-generated, personalized insights**
+- Uses **LLaMA-3 (70B)** for intelligent responses
+- Combines **SQLite + Firestore** for performance & reliability
+- Is designed for **low latency and scale**
+
+### 🚀 Impact
+- Personalized experiences instead of generic predictions
+- Fast, offline-resilient architecture
+- Production-ready and Play-Store deployed
+
+### ⚙️ Engineering Highlights
+- Clean Flutter architecture
+- Hybrid local + cloud persistence
+- AI integration with external LLM APIs
+- Designed for scale from day one
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-Cross%20Platform-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-LLaMA%203%2070B-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge"/>
+</p>
+
+📱 **Play Store:**  
+https://play.google.com/store/apps/details?id=com.AstroApp.astroapp
+
+---
+
+<p align="center">
+  <b style="color:#38BDF8">
+    These are not side projects. These are products built with intent.
+  </b>
+</p>
 
 ---
 
