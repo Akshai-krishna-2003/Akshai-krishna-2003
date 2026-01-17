@@ -122,20 +122,77 @@ I **design systems**, **own features end-to-end**, and **ship software that surv
 ---
 
 ## 📈 ENGINEERING PROOF  
-<sub><span style="color:#94A3B8">Live GitHub activity & consistency</span></sub>
+<sub><span style="color:#94A3B8">
+Live, verifiable proof of consistency, depth, and real-world engineering output
+</span></sub>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    width="90%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshai-krishna-2003&theme=github-dark&hide_border=true" />
+  <sub style="color:#64748B">
+    Overall engineering footprint — repositories, commits, stars, and sustained activity.
+  </sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Akshai-krishna-2003&theme=github-dark&hide_border=true"
+    width="90%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=github_dark" />
+  <sub style="color:#64748B">
+    Consistency over time — not bursts, not demos, not short-term spikes.
+  </sub>
 </p>
 
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=github_dark"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <sub style="color:#64748B">
+    Engineering depth — languages, contribution timeline, and project evolution.
+  </sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Akshai-krishna-2003&theme=github-dark&hide_border=true&area=true"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <sub style="color:#64748B">
+    Shipping velocity — how frequently meaningful work reaches repositories.
+  </sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <b style="color:#38BDF8">
+    This is not a claim. This is live engineering evidence.
+  </b>
+</p>
 ---
 
 ## 🤝 WORK WITH ME
