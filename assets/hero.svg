@@ -1,0 +1,26 @@
+
+      <svg
+        width="854"
+        height="320"
+        viewBox="0 0 854 320"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <style>
+      .text {   font-size: 58px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 854 320"
+        >
+          <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#020617"/><stop offset="50%" stop-color="#1e3a8a"/><stop offset="100%" stop-color="#38BDF8"/>
+              </linearGradient>
+            </defs>
+          <path fill="url(#linear)"  fill-opacity="1" d="m 0 0 T 0 270 Q 110 145 220 255 T 440 260 T 660 250 T 880 275 T 880 0 z"></path>
+        </svg>
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Akshai Krishna A</text>
+        
+      </svg>
+    
