@@ -219,13 +219,17 @@ Play Store →
   />
 </p>
 
+<div align="center">
 
-<!-- ===================== CLOSING STATEMENT ===================== -->
-<p align="center">
-  <b style="color:#38BDF8">
-    Git Stats.
-  </b>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshai-krishna-2003&theme=github_dark" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshai-krishna-2003&theme=github_dark" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshai-krishna-2003&theme=github_dark" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshai-krishna-2003&theme=github_dark" height="160em" />
+
+</div>
+
+<br/>
+
 
 ---
 
