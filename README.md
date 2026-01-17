@@ -29,8 +29,6 @@
 
 <!-- ===================== PROFILE METRICS ===================== -->
 <p align="center">
-  <!-- NOTE: GitHub aggressively caches this counter.
-       It updates per IP + time window, not every refresh. -->
   <img src="https://komarev.com/ghpvc/?username=Akshai-krishna-2003&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/Akshai-krishna-2003?label=Followers&style=for-the-badge&color=6366F1"/>
 </p>
@@ -130,8 +128,8 @@ Live, verifiable proof of consistency, depth, and real-world engineering output
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    width="90%"
+    src="https://github-readme-stats.vercel.app/api?username=Akshai-krishna-2003&show_icons=true&hide_border=true&v=1"
+    alt="Akshai Krishna GitHub Stats"
   />
 </p>
 
