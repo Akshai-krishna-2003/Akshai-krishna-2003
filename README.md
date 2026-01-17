@@ -260,6 +260,106 @@ Live GitHub activity · consistency · real engineering output
 
 ---
 
+
+## 🧩 WHY I AM A STRONG ASSET  
+<sub><span style="color:#94A3B8">
+Not output. Ownership. Reliability under pressure.
+</span></sub>
+
+<!-- Animated statement -->
+<p align="center">
+  <img
+    src="assets/anim3.svg"
+  />
+</p>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🧠 Thinking
+<sub style="color:#64748B">
+Business before tickets
+</sub>
+
+I focus on **impact**,  
+not just task completion.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🏗 Architecture
+<sub style="color:#64748B">
+Built to survive change
+</sub>
+
+Clean, readable systems  
+that scale with teams.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🛡 Reliability
+<sub style="color:#64748B">
+Production-first mindset
+</sub>
+
+I design to **prevent bugs**,  
+not just fix them.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🔄 Adaptability
+<sub style="color:#64748B">
+Legacy + modern
+</sub>
+
+Comfortable improving  
+existing systems without fear.
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🚀 Ownership
+<sub style="color:#64748B">
+End-to-end responsibility
+</sub>
+
+If it ships,  
+**I own the outcome**.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Closing emphasis -->
+<p align="center">
+  <b style="color:#38BDF8">
+    You don’t just get output.
+  </b>
+</p>
+
+<p align="center">
+  <b style="color:#38BDF8">
+    You get ownership, accountability, and calm execution.
+  </b>
+</p>
+
+---
+
 ## 🤝 WORK WITH ME  
 <sub><span style="color:#94A3B8">
 Not just collaboration — real ownership and long-term thinking
