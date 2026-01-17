@@ -38,18 +38,54 @@
 ## 🧠 WHO I AM  
 <sub><span style="color:#94A3B8">Not a template developer. A system builder.</span></sub>
 
-```yaml
-Name: Akshai Krishna A
-Role: Software Engineer | Mobile Engineer
-Core Identity:
-  - Product-minded engineer
-  - Offline-first architecture specialist
-  - Enterprise systems builder
-  - AI-integrated mobile developer
-Engineering Principle:
-  "If it doesn't scale, it doesn't ship."
-```
+```java
+public final class AkshaiKrishnaA {
 
+    // Identity
+    private static final String NAME = "Akshai Krishna A";
+    private static final String ROLE = "Software Engineer | Mobile Engineer";
+
+    // Language & stack evolution
+    private static final String FOUNDATION_LANGUAGE = "Python";
+    private static final String CURRENT_STACK = "Dart (Flutter)";
+    private static final boolean ADAPTABLE = true; // fast context switching
+
+    // Programming language proficiency
+    private static final List<String> STRONG_LANGUAGES = List.of(
+        "Java",
+        "Python",
+        "Dart"
+    );
+
+    private static final List<String> WORKING_KNOWLEDGE = List.of(
+        "C",
+        "C++",
+        "JavaScript"
+    );
+
+    // Engineering mindset
+    private static final List<String> CORE_TRAITS = List.of(
+        "product-minded engineer",
+        "offline-first architecture specialist",
+        "enterprise systems builder",
+        "AI-integrated mobile developer"
+    );
+
+    // Hands-on experience
+    private static final Map<String, List<String>> EXPERIENCE = Map.of(
+        "Enterprise Systems", List.of("SAP Business One", "IBM Maximo"),
+        "Mobile Development", List.of("Flutter", "Android", "Jetpack Compose"),
+        "Backend & Data", List.of("REST APIs", "Firebase", "SQLite"),
+        "AI / ML", List.of("prediction models", "LLM integrations"),
+        "IoT", List.of("Arduino-based systems")
+    );
+
+    // Engineering philosophy
+    public static String philosophy() {
+        return "If it doesn't scale, it doesn't ship.";
+    }
+}
+```
 I don’t just code screens.  
 I **design systems**, **own features end-to-end**, and **ship software that survives real users, bad networks, and business pressure**.
 
@@ -168,6 +204,7 @@ Live GitHub activity · consistency · real engineering output
 
 <br/>
 
+<!-- ===================== PRIMARY PROOF ===================== -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=github_dark"
@@ -184,29 +221,12 @@ Live GitHub activity · consistency · real engineering output
 
 <br/>
 
-<!-- <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8"
-  />
-</p> -->
-
-<p align="center">
-  <b style="color:#38BDF8">
-    This is not a screenshot. This is live engineering evidence.
-  </b>
-</p>
-<p align="center">
-  <sub style="color:#64748B">
-    Overall engineering footprint — repositories, commits, stars, and sustained activity.
-  </sub>
-</p>
-
-<br/>
-
+<!-- ===================== CONSISTENCY ===================== -->
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Akshai-krishna-2003&theme=github-dark&hide_border=true"
     width="90%"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -218,25 +238,12 @@ Live GitHub activity · consistency · real engineering output
 
 <br/>
 
-<!-- <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshai-krishna-2003&theme=github_dark"
-    width="95%"
-  />
-</p>
-
-<p align="center">
-  <sub style="color:#64748B">
-    Engineering depth — languages, contribution timeline, and project evolution.
-  </sub>
-</p> -->
-
-<br/>
-
+<!-- ===================== VELOCITY ===================== -->
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Akshai-krishna-2003&theme=github-dark&hide_border=true&area=true"
     width="95%"
+    alt="GitHub Activity Graph"
   />
 </p>
 
@@ -248,12 +255,12 @@ Live GitHub activity · consistency · real engineering output
 
 <br/>
 
+<!-- ===================== CLOSING STATEMENT ===================== -->
 <p align="center">
   <b style="color:#38BDF8">
-    This is not a claim. This is live engineering evidence.
+    Not a claim. Live engineering evidence.
   </b>
 </p>
----
 
 ## 🤝 WORK WITH ME
 
