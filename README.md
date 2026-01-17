@@ -7,6 +7,13 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&height=320&text=Akshai%20Krishna%20A&fontSize=58&fontColor=ffffff&fontAlignY=35&color=0:020617,50:1e3a8a,100:38BDF8&animation=fadeIn"/>
 </p>
 
+<!-- ===================== GREETING ===================== -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=94A3B8&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I%E2%80%99m+Akshai.;I+build+software+systems+that+survive+real+users.;Welcome+to+my+engineering+space."
+  />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=900&color=38BDF8&center=true&vCenter=true&width=1200&lines=Software+Engineer+%7C+Mobile+Engineer;Flutter+%7C+Android+%7C+AI+Driven+Systems;Offline-First+Architecture+%7C+Enterprise+Apps;I+build+systems+that+scale+under+pressure." />
 </p>
