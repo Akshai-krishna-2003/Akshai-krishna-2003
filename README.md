@@ -184,6 +184,11 @@ Play Store →
 ---
 
 ## 📈 GITHUB ACTIVITY 
+<p align="center">
+  <img
+    src="assets/github.svg"
+  />
+</p>
 
 <!-- ===================== PRIMARY PROOF ===================== -->
 <p align="center">
