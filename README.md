@@ -19,7 +19,7 @@
   <a href="https://github.com/Akshai-krishna-2003">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/Akshay2036/">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://akshai-krishna-2003.netlify.app/">
