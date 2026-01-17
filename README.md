@@ -43,12 +43,11 @@
 ---
 
 ## 🧠 WHO I AM  
-<sub><span style="color:#94A3B8">
-Not a template developer. A system builder.
-</span></sub>
-
-
-<br/>
+<p align="center">
+  <img
+    src="assets/whoamisection.svg"
+  />
+</p>
 
 ```java
 public final class AkshaiKrishnaA {
@@ -107,7 +106,7 @@ public final class AkshaiKrishnaA {
 ## 🛠 TECH DNA
 
 <p align="center">
-  <img src="assets/anim3.svg" />
+  <img src="assets/techstack.svg" />
 </p>
 
 <p align="center">
@@ -121,7 +120,7 @@ public final class AkshaiKrishnaA {
 ## 🚀 PROJECTS
 
 <p align="center">
-  <img src="assets/anim4.svg" />
+  <img src="assets/projects.svg" />
 </p>
 
 <table align="center">
