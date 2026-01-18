@@ -43,6 +43,13 @@
 ---
 
 ## 🧠 WHO I AM  
+
+<p align="center">
+  <img
+    src="assets/whoamisection.svg"
+  />
+</p>
+
 <div align="center">
 <pre>
 '''
@@ -100,11 +107,6 @@
 ```
   </pre>
 </div>
-<p align="center">
-  <img
-    src="assets/whoamisection.svg"
-  />
-</p>
 
 ```java
 public final class AkshaiKrishnaA {
