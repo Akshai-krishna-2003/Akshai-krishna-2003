@@ -201,13 +201,13 @@ Play Store →
 
 
 <!-- ===================== CONSISTENCY ===================== -->
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Akshai-krishna-2003&theme=github-dark&hide_border=true"
     width="90%"
     alt="GitHub Contribution Streak"
   />
-</p>
+</p> -->
 
 
 <!-- ===================== VELOCITY ===================== -->
