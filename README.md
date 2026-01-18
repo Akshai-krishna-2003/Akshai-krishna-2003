@@ -182,9 +182,11 @@ public final class AkshaiKrishnaA {
   <img src="assets/projects.svg" />
 </p>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+
+<!-- ===================== SIGNAL MAPPER ===================== -->
+<td width="33%" valign="top">
 
 ### 📡 Signal Mapper  
 <sub><span style="color:#38BDF8">Android · Network Intelligence</span></sub>
@@ -209,7 +211,34 @@ ML-assisted connectivity prediction.
 
 </td>
 
-<td width="50%" valign="top">
+<!-- ===================== SAFE TRAVERSE ===================== -->
+<td width="33%" valign="top">
+
+### 🤖 Safe Traverse  
+<sub><span style="color:#22C55E">Embedded Systems · IoT</span></sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-Embedded-22C55E?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Ultrasonic-Sensor-0EA5E9?style=flat"/>
+  <img src="https://img.shields.io/badge/Servo-Scanning-F59E0B?style=flat"/>
+  <img src="https://img.shields.io/badge/L298N-Motor%20Driver-6366F1?style=flat"/>
+</p>
+
+<p style="color:#CBD5E1">
+Autonomous obstacle-avoiding robot car using
+real-time distance sensing and motor control.
+</p>
+
+🔗 <a href="https://github.com/Akshai-krishna-2003/SafeTraverse-Obstacle-Avoiding-Robot-Car-Using-Arduino">View Repository →</a>
+
+</td>
+
+<!-- ===================== ASTROCONNECT ===================== -->
+<td width="33%" valign="top">
 
 ### 🌟 AstroConnect  
 <sub><span style="color:#A78BFA">Flutter · AI-Driven App</span></sub>
@@ -235,6 +264,7 @@ Play Store →
 </a>
 
 </td>
+
 </tr>
 </table>
 
